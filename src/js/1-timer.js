@@ -28,7 +28,7 @@ const options = {
         messageColor: '#FFFFFF',
         position: 'topRight',
         icon: '',
-        iconUrl: '../img/close.svg',
+        iconUrl: 'img/close.svg',
       });
 
       refs.startBtn.disabled = true;
